@@ -1,6 +1,6 @@
 ### Hi there, I am Aryan Gupta👋
 
-- 🔭 I’m currently working on ML and DL projects, contributing to PyTorch ecosystem
+- 🔭 I’m currently an EE Junior, working on ML and DL projects, contributing to PyTorch ecosystem
 - 🌱 I’m currently learning about AI security, particulary Robustness, GANs, and Randomized Smoothing
 - 👯 I’m looking to collaborate on any ML project / research or anything
 - 🤔 I’m looking for help with advancing AI and creating human-like intelligence!
